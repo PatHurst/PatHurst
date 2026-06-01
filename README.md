@@ -27,31 +27,6 @@ If it's sitting in your "too hard" pile, it's probably my favorite kind of probl
 
 ---
 
-## 🏗️ Projects
-
-### [DBAccess](https://github.com/PatHurst/DBAccess) — Functional ADO.NET Database Layer
-A lightweight .NET 10 database access library built on [LanguageExt](https://github.com/louthy/language-ext). Every operation returns `EitherAsync<DbError, T>` — no exceptions to catch, no nulls to guard against. Railway-oriented pipelines from query to response, compatible with any ADO.NET provider (SQL Server, PostgreSQL, SQLite, MySQL).
-
-### [WPF-Template](https://github.com/PatHurst/WPF-Template) — Batteries-Included WPF Starter
-A production-ready starting point for WPF desktop apps on .NET 10. Ships with MVVM, DI via `Microsoft.Extensions`, a runtime light/dark theme system with custom accent colors, file logging, and an optional SQL Server data access layer.
-
-### [OnsrudOps](https://github.com/PatHurst/OnsrudOps) — CNC G-Code Editor & Controller
-Desktop application for editing G-Code and communicating with Onsrud CNC routers over serial. Supports reliable RS-232 serial communication, G-Code editing and saving, and basic slab surfacing program generation.
-
-### [inquote](https://github.com/PatHurst/inquote) — Cabinet Shop Quoting Software
-Quoting software purpose-built for cabinet shops, covering the full workflow from material takeoff to customer pricing.
-
-### [Integrity Kitchens](https://github.com/PatHurst/Integrity-Kitchens) — Shop Management App
-Full management application for a kitchen and cabinet shop — job tracking, production workflow, and shop-floor coordination.
-
-### [CV-Material-Import](https://github.com/Code-Crafter-s-Consortium/CV-Material-Import) — CSV → Cabinet Vision Importer
-Automates bulk material imports into Cabinet Vision from CSV files, eliminating manual data entry.
-
-### [ResizeCVWindows](https://github.com/Code-Crafter-s-Consortium/ResizeCVWindows) — CV Window Utility
-A native C/Win32 utility that resizes Cabinet Vision's cramped windows — the drawing sheets panel and CAM editor tool selector — to make them actually usable.
-
----
-
 ## 🛠️ Skills & Tools
 
 **Cabinet Vision**
